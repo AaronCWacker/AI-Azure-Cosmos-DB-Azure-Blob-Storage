@@ -46,6 +46,8 @@ Create a streamlit python app that uses Azure Cosmos DB (ACDB) and Azure Blob St
 6. Emulator (Download Azurite for local ABS Development  import the required python libraries for both Azure Cosmos DB and Azure Blob Storage.  Add basic UI to Supply a Connection String and Primary Key for ABS.  Do the Same to create basic UI connectivity to Azure Cosmos DB.  For both of those create the UI elements in center area with streamlit wide and keep the two expanders open by default on streamlit sidebar.
 
 # Basic UI AI Generated Code (Enter and Test)
+
+```
 import streamlit as st
 # Import Azure libraries (placeholder, you will need to replace with actual libraries)
 # from azure.storage.blob import BlobServiceClient
@@ -103,4 +105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
+```
