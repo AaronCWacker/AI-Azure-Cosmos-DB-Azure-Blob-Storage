@@ -9,6 +9,9 @@ AI Python Apps for Azure Cosmos DB, Azure Blob Storage, Azure Container Registry
 # Video Playlist:
 https://www.youtube.com/playlist?list=PLHgX2IExbFos07Jf1iT2gg94A2IArbmLC
 
+# Github Repo:
+https://github.com/AaronCWacker/AI-Azure-Cosmos-DB-Azure-Blob-Storage
+
 # Startup
 1. Download and inspect the Python Quick start app for Azure Cosmos DB:
 ![image](https://github.com/AaronCWacker/AI-Azure-Cosmos-DB-Azure-Blob-Storage/assets/30595158/19a3fe6b-b3b9-4920-9902-a29d9527d029)
